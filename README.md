@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a social media website/app for cooks<br>👯 I’m looking to collaborate on Open source projects related to web development.<br>🤝 I’m seeking help with Improving my UI/UX design and database optimization skills.<br>🌱 I’m currently learning: React Native, GraphQL, and Docker.<br>💬 Ask me about My experience working with different programming languages and frameworks.<br>⚡ Fun fact - I may look lazy but I'm not.
+🔭 I’m currently working on a social media website/app for cooks.<br>👯 I’m looking to collaborate on Open source projects related to web development.<br>🤝 I’m seeking help with Improving my UI/UX design and database optimization skills.<br>🌱 I’m currently learning: React Native, GraphQL, and Docker.<br>💬 Ask me about My experience working with different programming languages and frameworks.<br>⚡ Fun fact - I may look lazy but I'm not.
 
 
 ## 🌐 Socials:
